@@ -35,6 +35,8 @@ Once you're logged in, you can start posting your favorite photographs from Flic
 
 2. Hashtags: Search for posts using hashtags. Click on a hashtag to see all posts tagged with it.
 
+![Screenshot 2024-05-27 172625](https://github.com/Alfiya-Anjum/FlickHub/assets/125040235/e3567210-9475-4220-a693-911de8f0f198)
+
 
 User Profile
 
