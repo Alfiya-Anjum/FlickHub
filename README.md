@@ -1,1 +1,2 @@
-![edit-profile](https://github.com/Alfiya-Anjum/FlickHub/assets/125040235/d00dcf3b-ee37-4e9c-bad3-088bd170cda9)
+![Screenshot 2024-05-27 172544](https://github.com/Alfiya-Anjum/FlickHub/assets/125040235/4d987537-415f-46f9-85ac-bbc656f98737)
+
